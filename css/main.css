@@ -3044,8 +3044,8 @@ html.no-csstransitions .home-content__main {
     background-image: url("../images/contact-bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
-    padding-top: 13.2rem;
-    padding-bottom: 12rem;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
     color: rgba(255, 255, 255, 0.5);
     position: relative;
 }
